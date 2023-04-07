@@ -21,8 +21,8 @@ function Home() {
         </Col>
         <Col md={12}>
           <p>The Metropolitan Museum of Art, colloquially known as the Met, is located in New York City and is the largest art museum in the United States. With a collection of over 2 million works, it is also one of the most comprehensive art museums in the world.</p>
-          <p>The museum was founded in 1870 by a group of American citizens who wanted to create a museum to rival the great European museums. Today, the Met's collection includes everything from ancient Egyptian artifacts to contemporary art, with highlights including works by Rembrandt, Vermeer, Van Gogh, and Picasso.</p>
-          <p>If you're interested in learning more about the Met, check out the link below.... </p> <br/>
+          <p>The museum was founded in 1870 by a group of American citizens who wanted to create a museum to rival the great European museums. Today, the Mets collection includes everything from ancient Egyptian artifacts to contemporary art, with highlights including works by Rembrandt, Vermeer, Van Gogh, and Picasso.</p>
+          <p>If youre interested in learning more about the Met, check out the link below.... </p> <br/>
           <button className={styles.historyListItem}>
           <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" target="_blank" rel="noreferrer">Wikipedia entry</a>.
           </button>
