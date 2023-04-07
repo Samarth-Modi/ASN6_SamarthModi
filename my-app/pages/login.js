@@ -9,7 +9,7 @@ import { searchHistoryAtom } from "../store";
 
 import { getFavourites, getHistory } from "../lib/userData";
 
-export default function login(props) {
+export default function Login(props) {
   const [warning, setWarning] = useState("");
   const [user, setUser] = useState("");
   const [password, setPassword] = useState("");

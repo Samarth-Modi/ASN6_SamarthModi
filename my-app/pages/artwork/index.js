@@ -22,7 +22,7 @@ import validObjectIDList from '@/public/data/validObjectIDList.json'
 
 const PER_PAGE = 12;
 
-export default function index() {
+export default function Index() {
 
     const [artworkList,setarkWorkList] = useState();
     const [page,setPage] = useState(1);
