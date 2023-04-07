@@ -2,7 +2,7 @@ import {Card, Button} from "react-bootstrap"
 import React from 'react'
 import useSWR from 'swr'
 import Link from 'next/link'
-
+import Error from "next/error"
 
 
 export default function ArtworkCard({objectID}) {
